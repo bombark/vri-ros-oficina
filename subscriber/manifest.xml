@@ -1,0 +1,14 @@
+<package>
+  <description brief="subscriber">
+
+     subscriber
+
+  </description>
+  <author>vriadm2</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/subscriber</url>
+
+</package>
+
+
